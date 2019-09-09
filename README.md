@@ -1,5 +1,3 @@
-#No Auth Provider Found
-#Make sure you've configured the API credentials for Github from the Access part of your Netlify site dashboard.
 # Victor Hugo CMS Template
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/hyde-cms-theme)
